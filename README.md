@@ -22,7 +22,7 @@
 </p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 
