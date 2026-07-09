@@ -15,40 +15,6 @@
 
 </div>
 
----
-
-# 🚀 About Me
-
-```cpp
-class GouravSharma {
-public:
-    string education = "B.E. Computer Science Engineering";
-    string location = "India";
-
-    vector<string> interests = {
-        "System Programming",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Backend Development",
-        "Computer Networks",
-        "Operating Systems",
-        "Data Structures & Algorithms"
-    };
-
-    vector<string> currently_learning = {
-        "C++",
-        "Java",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Linux",
-        "Networking",
-        "Operating Systems"
-    };
-
-    string goal = "Become a world-class Software Engineer.";
-};
-```
 
 ---
 
