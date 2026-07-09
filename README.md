@@ -22,6 +22,9 @@
 </p>
 
 <p>
+<img src="https://skillicons.dev/icons?i=javascript,html,css" />
+</p>
+<p>
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
