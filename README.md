@@ -18,21 +18,12 @@
 
 # 💻 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,react" />
 </p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,html,css" />
 </p>
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -41,7 +32,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
 
 ---
