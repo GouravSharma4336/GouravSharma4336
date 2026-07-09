@@ -1,4 +1,4 @@
-<div align="left">
+<div align="centre">
 
 # Hi 👋, I'm Gourav Sharma
 
@@ -12,7 +12,10 @@
 
 
 </div>
+<div align ="centre">
+
 ---
+
 # 💻 Tech Stack
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
@@ -74,7 +77,7 @@
 
 
 </p>
-
+</div>
 ---
 
 <div align="center">
