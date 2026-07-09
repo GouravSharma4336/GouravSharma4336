@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi 👋, I'm Gourav Sharma
 
@@ -10,7 +10,6 @@
 - 🧩 Solving Data Structures & Algorithms problems regularly
 - 🚀 Always building projects and learning something new
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Projects...;Learning+Computer+Science...;Exploring+AI+%26+Cybersecurity...;Open+Source+Contributor+in+Progress..." alt="Typing SVG" />
 
 </div>
 ---
